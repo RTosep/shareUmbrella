@@ -1,0 +1,3 @@
+.MuiInput-underline::after, .MuiInput-underline::before{
+    border-bottom: none !important;
+}
