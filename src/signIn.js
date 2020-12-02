@@ -50,7 +50,7 @@ const useStyles = makeStyles((theme) => ({
   },
   msgcontain:{
       position:"relative",
-      height: 75
+      height: 70
   },
   msgpos:{
       position:"absolute",
